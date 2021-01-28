@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lucky Number Finder</string>
+    <string name="suggestion_button">Lucky Number</string>
+    <string name="textholder">Hello World this is where the details would pop up and would it go to the next line </string>
+    <string name="hints">Enter your name</string>
+    <string name="textview"></string>
+    <string name="myname"></string>
+    <string name="Lifepno">This is your Lifepath Number</string>
+
+</resources>
